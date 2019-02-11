@@ -8,5 +8,7 @@ published: true
 - find links to charities that support LGBTQ+ rights
 - view gay furries
 - Promote love, and not hate
-![lol1.png]({{site.baseurl}}/lol1.png)
 
+## Images of furries
+### Here's a furry that's a homosexual!
+<img src="/lol1.png" width="50%">
