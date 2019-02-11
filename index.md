@@ -15,5 +15,4 @@ published: true
 
 ## Links to cool orginizations
 Here's some cool organizations you can check out and donate to in order to choose love and not hate.
-
-[![Alt text]({{site.baseurl}}/lol1.png)](http://example.net/)
+[![splc]({{site.baseurl}}/splc-logo.png)](https://www.splcenter.org/)
