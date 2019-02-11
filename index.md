@@ -11,8 +11,10 @@ published: true
 
 ## Images of furries
 ### Here's a furry that's a homosexual!
+
 ![lol1.png]({{site.baseurl}}/lol1.png)
 
 ## Links to cool orginizations
 Here's some cool organizations you can check out and donate to in order to choose love and not hate.
+
 [![splc]({{site.baseurl}}/splc-logo.png)](https://www.splcenter.org/)
