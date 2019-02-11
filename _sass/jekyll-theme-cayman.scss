@@ -163,6 +163,11 @@ a {
   text-align: center;
   word-wrap: break-word;
 
+   img {
+    max-width:50%;
+    height:auto;
+   }
+   
   :first-child {
     margin-top: 0;
   }
