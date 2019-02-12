@@ -17,6 +17,11 @@ I'm calling this project **We Stbo Roba Ptis Tchu Rch**, or W.S.R.P.T.R. for sho
 
 ## Now, here are some images of furries.
 ![lol1.png]({{site.baseurl}}/lol1.png)
+![photo5120999355560601633.jpg]({{site.baseurl}}/photo5120999355560601633.jpg)
+![photo5121070987025164273.jpg]({{site.baseurl}}/photo5121070987025164273.jpg)
+![photo5121070987025164275.jpg]({{site.baseurl}}/photo5121070987025164275.jpg)
+![lolpop.jpg]({{site.baseurl}}/lolpop.jpg)
+
 
 ## Links to cool organizations
 Here's some cool organizations you can check out and donate to in order to choose love and not hate. This site isn't endorsed by these listed organizations.
