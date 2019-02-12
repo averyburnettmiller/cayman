@@ -2,8 +2,20 @@
 layout: default
 published: true
 ---
-## _We Stbo Roba Ptis Tchu Rch_ is the name of a project dedicated to bring more love into the world.
+## I recently read an article about a man who bought a domain related to a local hategroup, and filled the site full of images of furries. I thought this was an amazing idea, so I decided to do the same.
+The first group to come to mind is the westboro baptist church. The WBC is listed as a hate group by both the SPLC and the ADL.
 
+According to their wikipedia page, they target a wide variety of people, from people in the LGBTQ+ community  to athiests, to jewish people, spewing hatespeech about each one of these groups.
+
+Soon, I'll put a video here about this whole project.
+
+My goal in creating this site is to do something a bit similar to the equality house: The equality house is a rainbow-painted house across the street from the WBC.
+
+## I feel that a site that mentions how it's okay to be gay or lesbian or trans or bi or ace or queer in some way or (etcetera) should come up when westboro baptist church is searched up on google.
+
+I'm calling this project **We Stbo Roba Ptis Tchu Rch**, or W.S.R.P.T.R. for short. Hence the domain name, westborobaptist.church. 
+
+## Now, here are some images of furries.
 ![lol1.png]({{site.baseurl}}/lol1.png)
 
 ## Links to cool organizations
