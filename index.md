@@ -2,7 +2,7 @@
 layout: default
 published: true
 ---
-## I recently read an article about a man who bought a domain related to a local hategroup, and filled the site full of images of furries. I thought this was an amazing idea, so I decided to do the same.
+## Welcome to westborobaptist.church! I recently read an article about a man who bought a domain related to a local hategroup, and filled the site full of images of furries. I thought this was an amazing idea, so I decided to do the same.
 The first group to come to mind is the westboro baptist church. The WBC is listed as a hate group by both the SPLC and the ADL.
 
 According to their wikipedia page, they target a wide variety of people, from people in the LGBTQ+ community  to athiests, to jewish people, spewing hatespeech about each one of these groups.
